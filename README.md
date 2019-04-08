@@ -100,13 +100,23 @@ Installing packages: (Windows, Mac, Linux)
 Goto command prompt:
 
 pip3 install pandas
+
 pip3 install matplotlib
+
 pip3 install nltk
+
 pip3 install numpy
+
 pip3 install scipy
+
 pip3 install scikit-learn
+
 pip3 install seaborn
+
 pip3 install –upgrade tensorflow ( refer this on any error ) Note: there are two ‘-‘ before upgrade
+
 pip3 install keras
+
 pip3 install Pillow
+
 pip3 install plotly (if didnt worked open anaconda prompt and try 'conde install plotly')
