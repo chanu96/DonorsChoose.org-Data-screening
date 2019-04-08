@@ -119,4 +119,4 @@ pip3 install keras
 
 pip3 install Pillow
 
-pip3 install plotly (if didnt worked open anaconda prompt and try 'conde install plotly')
+pip3 install plotly (if it didnt work open anaconda prompt and try 'conde install plotly')
