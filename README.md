@@ -1,4 +1,4 @@
-The notebook is contains codes and the outputs along with explanations. To run it on a computer, follow these instructions
+The notebook contains the codes with necessary explanations and observations. To run it on a computer, follow these instructions:
 
 Installing Python
  
